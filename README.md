@@ -1,6 +1,9 @@
 # Turborepo starter
 
-This is an official starter Turborepo.
+This is a clone of the official starter Turborepo, but with removed typescript.
+- Only JS version of turborepo
+- Turborepo with typescript removed
+- Turborepo with Javascript only
 
 ## Using this example
 
