@@ -1,5 +1,3 @@
-import * as React from "react";
-
-// component exports
-export * from "./Button";
-export * from "./Header";
+export * from "./Typography/Button";
+export * from "./Typography/Heading";
+export * from "./Typography/TextContent";

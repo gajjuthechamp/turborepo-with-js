@@ -1,0 +1,8 @@
+{
+  "name": "tailwind-config",
+  "author": "Digitas - GSP",
+  "version": "0.0.1",
+  "files": [
+    "tailwind-config.js"
+  ]
+}

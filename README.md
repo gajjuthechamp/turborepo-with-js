@@ -19,8 +19,9 @@ This Turborepo includes the following packages/apps:
 
 ### Apps and Packages
 
-- `web`: another [Next.js](https://nextjs.org/) app
-- `ui`: a stub React component library shared by both `web` and `docs` applications
+- `article-listing`: another [Next.js](https://nextjs.org/) app
+- `tag-listing`: another [Next.js](https://nextjs.org/) app
+- `ui`: a stub React component library shared by all  applications
 - `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 
 Each package/app is 100% Javascript

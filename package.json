@@ -7,13 +7,18 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.22.5",
     "@turbo/gen": "^1.9.7",
+    "autoprefixer": "^10.4.14",
     "eslint": "^7.32.0",
     "eslint-config-custom": "*",
+    "postcss": "^8.4.24",
     "prettier": "^2.5.1",
+    "tailwindcss": "^3.3.2",
     "turbo": "latest"
   },
   "name": "F1-MonoRepo",
+  "author": "Digitas - GSP",
   "packageManager": "npm@9.6.5",
   "workspaces": [
     "apps/*",
